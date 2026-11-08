@@ -4,3 +4,4 @@ A study planner app that lives entirely in your browser, letting you map session
 ## Designed for
 - Students juggling multiple exams in one week
 - Spreading review sessions across available days
+- Tracking daily prep time at a glance
