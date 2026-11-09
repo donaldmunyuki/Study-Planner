@@ -8,3 +8,4 @@ A study planner app that lives entirely in your browser, letting you map session
 - Rearranging blocks when priorities shift
 
 ## Features & capabilities
+- Quick-add event sheet:
