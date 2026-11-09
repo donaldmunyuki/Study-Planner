@@ -8,4 +8,5 @@ A study planner app that lives entirely in your browser, letting you map session
 - Rearranging blocks when priorities shift
 
 ## Features & capabilities
-- Quick-add event sheet:
+- Quick-add event sheet: Click any day column to open a slide-in form with title, duration chips, optional notes, and a test toggle that saves on Enter.
+- Duration chip picker: Select from preset chips for 15, 20, 30, 45, or 60 minutes, or type a custom number for sessions of any length.
