@@ -14,3 +14,4 @@ A study planner app that lives entirely in your browser, letting you map session
 - Within-day reorder: Drag cards up or down inside a single column to set the sequence you want, saved automatically to local storage.
 - Test flag toggle: Mark a card as the test itself so it stands out with an amber badge and its duration stays out of your study total.
 - Week navigation: Step backward or forward by week with arrow buttons, or jump straight to today, to lay out sessions weeks in advance.
+- Local storage persistence: Your entire plan saves to the browser automatically and survives page refreshes, with no sign-up or account required.
