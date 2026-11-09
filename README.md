@@ -12,3 +12,4 @@ A study planner app that lives entirely in your browser, letting you map session
 - Duration chip picker: Select from preset chips for 15, 20, 30, 45, or 60 minutes, or type a custom number for sessions of any length.
 - Cross-column drag: Drag a card from one day to another to reschedule it, with both columns updating their totals the moment you drop.
 - Within-day reorder: Drag cards up or down inside a single column to set the sequence you want, saved automatically to local storage.
+- Test flag toggle: Mark a card as the test itself so it stands out with an amber badge and its duration stays out of your study total.
