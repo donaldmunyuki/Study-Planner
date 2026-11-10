@@ -18,3 +18,4 @@ A study planner app that lives entirely in your browser, letting you map session
 - Clear and restart: Wipe every event across all weeks with a single confirmed action, returning the app to its welcome screen for a fresh start.
 
 ## About Study Planner
+This study planner app gives you a drag-and-drop weekly grid where you map out every review session and practice set alongside each test day in one view. Open it in your browser, click a day, add a block, and see your prep time spread across the week.
