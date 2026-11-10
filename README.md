@@ -19,4 +19,7 @@ A study planner app that lives entirely in your browser, letting you map session
 
 ## About Study Planner
 This study planner app gives you a drag-and-drop weekly grid where you map out every review session and practice set alongside each test day in one view. Open it in your browser, click a day, add a block, and see your prep time spread across the week.
+
 These application has seven-column day grid with stacked event cards, a quick-add sheet with duration chips, drag-and-drop reordering powered by DnD Kit, and per-day time totals that update the moment you move a card. Add subjects through the quick-add sheet, then arrange their cards on the weekly grid.
+
+Everything runs on a single page. The week heading with arrow navigation lets you look ahead or review past weeks. Each event card shows a title and a duration badge. Test dates can also carry a flag. A toolbar gives you clipboard export, a print-ready layout, and a one-click reset.
