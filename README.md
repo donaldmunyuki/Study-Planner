@@ -23,3 +23,5 @@ This study planner app gives you a drag-and-drop weekly grid where you map out e
 These application has seven-column day grid with stacked event cards, a quick-add sheet with duration chips, drag-and-drop reordering powered by DnD Kit, and per-day time totals that update the moment you move a card. Add subjects through the quick-add sheet, then arrange their cards on the weekly grid.
 
 Everything runs on a single page. The week heading with arrow navigation lets you look ahead or review past weeks. Each event card shows a title and a duration badge. Test dates can also carry a flag. A toolbar gives you clipboard export, a print-ready layout, and a one-click reset.
+
+Compared to a generic calendar or a hand-drawn spreadsheet, this template puts the shape of your week front and center. You see at a glance which days are heavy and which have room for one more session.
