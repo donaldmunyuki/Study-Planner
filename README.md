@@ -16,3 +16,5 @@ A study planner app that lives entirely in your browser, letting you map session
 - Week navigation: Step backward or forward by week with arrow buttons, or jump straight to today, to lay out sessions weeks in advance.
 - Local storage persistence: Your entire plan saves to the browser automatically and survives page refreshes, with no sign-up or account required.
 - Clear and restart: Wipe every event across all weeks with a single confirmed action, returning the app to its welcome screen for a fresh start.
+
+## About Study Planner
