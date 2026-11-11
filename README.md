@@ -35,3 +35,4 @@ Compared to a generic calendar or a hand-drawn spreadsheet, this template puts t
 When four exams fall in the same week, this study planner app turns panic into a visible schedule. Drop each subject into the days before its test, then drag blocks around until the load feels balanced. Column footers show the minute totals per day. You can quickly spot days that need a lighter load or another review block.
 
 ### Balancing coursework with part-time work
+Students who work shifts need to fit prep into whatever gaps their schedule allows. Lay out your available days, add sessions for the subjects that matter most, and adjust when a shift change reshuffles the week. Daily time totals reveal instantly whether you are hitting enough review hours or falling short before it is too late.
