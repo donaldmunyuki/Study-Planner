@@ -32,4 +32,4 @@ Compared to a generic calendar or a hand-drawn spreadsheet, this template puts t
 
 ## Best use cases
 ### Cramming smarter before midterms
-
+When four exams fall in the same week, this study planner app turns panic into a visible schedule. Drop each subject into the days before its test, then drag blocks around until the load feels balanced. Column footers show the minute totals per day. You can quickly spot days that need a lighter load or another review block.
