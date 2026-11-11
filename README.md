@@ -30,5 +30,6 @@ Everything runs on a single page. The week heading with arrow navigation lets yo
 
 Compared to a generic calendar or a hand-drawn spreadsheet, this template puts the shape of your week front and center. You see at a glance which days are heavy and which have room for one more session.
 
-### Best use cases
+## Best use cases
+### Cramming smarter before midterms
 
