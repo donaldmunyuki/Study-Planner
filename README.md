@@ -38,3 +38,4 @@ When four exams fall in the same week, this study planner app turns panic into a
 Students who work shifts need to fit prep into whatever gaps their schedule allows. Lay out your available days, add sessions for the subjects that matter most, and adjust when a shift change reshuffles the week. Daily time totals reveal instantly whether you are hitting enough review hours or falling short before it is too late.
 
 ### Coordinating group project deadlines
+When a group project has deliverables spread across a week, each member can copy their plan as plain text and share it in a group chat. Everyone sees who is covering what, and overlapping gaps become obvious before they turn into missed deadlines. Print the week as a one-pager to pin next to a shared workspace.
