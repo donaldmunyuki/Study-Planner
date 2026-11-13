@@ -36,3 +36,5 @@ When four exams fall in the same week, this study planner app turns panic into a
 
 ### Balancing coursework with part-time work
 Students who work shifts need to fit prep into whatever gaps their schedule allows. Lay out your available days, add sessions for the subjects that matter most, and adjust when a shift change reshuffles the week. Daily time totals reveal instantly whether you are hitting enough review hours or falling short before it is too late.
+
+### Coordinating group project deadlines
