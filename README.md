@@ -39,3 +39,5 @@ Students who work shifts need to fit prep into whatever gaps their schedule allo
 
 ### Coordinating group project deadlines
 When a group project has deliverables spread across a week, each member can copy their plan as plain text and share it in a group chat. Everyone sees who is covering what, and overlapping gaps become obvious before they turn into missed deadlines. Print the week as a one-pager to pin next to a shared workspace.
+
+### Preparing for standardized tests
