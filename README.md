@@ -44,3 +44,4 @@ When a group project has deliverables spread across a week, each member can copy
 Standardized test prep stretches over weeks, and losing track of the balance between subjects is the biggest risk. Use the week arrows to move forward, distribute practice sections across days, and flag the actual test date so it stands apart from review blocks. The visual runway from today to test day keeps you from overloading one area while neglecting another.
 
 ## Development
+Prefer working locally? You need Node.js and npm — install with nvm.
