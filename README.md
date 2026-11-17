@@ -47,6 +47,7 @@ Standardized test prep stretches over weeks, and losing track of the balance bet
 ### One-click File Backup & Restore (JSON / .ics) — Easiest & 100% Free
 - Add two simple buttons in the toolbar: "Export Plan" and "Import Plan".
 - You can download your plan as a small file and load it on any other device or browser.
+- You can also export sessions as an .ics calendar file to import directly into Google Calendar or Apple Calendar.
 
 ## Development
 Prefer working locally? You need Node.js and npm — install with nvm.
