@@ -45,6 +45,7 @@ Standardized test prep stretches over weeks, and losing track of the balance bet
 
 ## Updates
 ### One-click File Backup & Restore (JSON / .ics) — Easiest & 100% Free
+- Add two simple buttons in the toolbar: "Export Plan" and "Import Plan".
 
 ## Development
 Prefer working locally? You need Node.js and npm — install with nvm.
