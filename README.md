@@ -53,6 +53,7 @@ Standardized test prep stretches over weeks, and losing track of the balance bet
 
 ### Pure Local Storage (Keep Guest Mode only) Zero friction
 - Remove the sign-in modal, account button, and database sync entirely.
+- The app loads instantly, keeps data in the browser, and requires zero cloud configuration or email sender setups.
 
 ## Development
 Prefer working locally? You need Node.js and npm — install with nvm.
