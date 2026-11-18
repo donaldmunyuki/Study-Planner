@@ -44,12 +44,14 @@ When a group project has deliverables spread across a week, each member can copy
 Standardized test prep stretches over weeks, and losing track of the balance between subjects is the biggest risk. Use the week arrows to move forward, distribute practice sections across days, and flag the actual test date so it stands apart from review blocks. The visual runway from today to test day keeps you from overloading one area while neglecting another.
 
 ## Updates
-### One-click File Backup & Restore (JSON / .ics) — Easiest & 100% Free
+### One-click File Backup & Restore (JSON / .ics) Easiest & 100% Free
 - Add two simple buttons in the toolbar: "Export Plan" and "Import Plan".
 - You can download your plan as a small file and load it on any other device or browser.
 - You can also export sessions as an .ics calendar file to import directly into Google Calendar or Apple Calendar.
 - Cost: $0 forever.
 - Maintenance: None.
+
+### Pure Local Storage (Keep Guest Mode only) Zero friction
 
 ## Development
 Prefer working locally? You need Node.js and npm — install with nvm.
