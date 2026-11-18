@@ -52,6 +52,7 @@ Standardized test prep stretches over weeks, and losing track of the balance bet
 - Maintenance: None.
 
 ### Pure Local Storage (Keep Guest Mode only) Zero friction
+- Remove the sign-in modal, account button, and database sync entirely.
 
 ## Development
 Prefer working locally? You need Node.js and npm — install with nvm.
