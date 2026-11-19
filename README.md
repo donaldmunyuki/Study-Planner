@@ -1,3 +1,5 @@
+
+
 # Study Planner
 A study planner app that lives entirely in your browser, letting you map sessions across the week, drag cards when priorities shift, and see where prep time is piling up.
 
@@ -56,6 +58,7 @@ Standardized test prep stretches over weeks, and losing track of the balance bet
 - The app loads instantly, keeps data in the browser, and requires zero cloud configuration or email sender setups.
 
 ### Keep the Current Hybrid Setup (Already built)
+- The app currently allows anyone to use it anonymously as a guest.
 
 ## Development
 Prefer working locally? You need Node.js and npm — install with nvm.
