@@ -55,6 +55,8 @@ Standardized test prep stretches over weeks, and losing track of the balance bet
 - Remove the sign-in modal, account button, and database sync entirely.
 - The app loads instantly, keeps data in the browser, and requires zero cloud configuration or email sender setups.
 
+### Keep the Current Hybrid Setup (Already built)
+
 ## Development
 Prefer working locally? You need Node.js and npm — install with nvm.
 ```sh
